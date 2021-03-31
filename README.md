@@ -1,4 +1,5 @@
 # Loan-Prediction
+Analytics Vidhya Practice Hackathon
 
 Objective: To predict loan status i.e. whether to give loan or not based on given variables.
 
