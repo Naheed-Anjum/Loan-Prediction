@@ -1,11 +1,13 @@
 # Loan-Prediction
 
-Objective: To predict loan status i.e. whether to give loan or not based on given variables.
+**Objective**: To predict loan status i.e. whether to give loan or not based on given variables.
 
-Data: Data is used from Analytics Vidhya Loan Prediction III - Practice Hackathon. For detail description of data visit https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
+**Data**: Data is used from Analytics Vidhya Loan Prediction III - Practice Hackathon. For detail description of data visit https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/
 
-Methodology: The data is partition into training and validation datasets. The project uses replacement of missing value and creating new variables as Total Income, EMI and Balance Amout as part of Feature Engineering. To predict the loan status, I applied various machine learning algorithms used are Logistic Regression, Decision Tree Classifier, Random Forest and S.V.M. Models were developed based on training dataset excluding some observations which were kept for validation purpose, and then applied on the test dataset to get the output.
+**Methodology**: The train dataset was split into training and validation sets. Missing values were replaced, and new variables such as Total Income, EMI, and Balance Amount were created as part of feature engineering. Various machine learning algorithms—Binary Logistic Regression, Decision Tree, and Random Forest—were applied. Models were trained on the training dataset, validated on the validation dataset, and finally tested on unseen data to generate predictions.
 
-Conclusion:
+Also, involved creating various graphical visualizations of loan status data along with other variables, supporting data-driven decision-making and insights.
+
+**Conclusion**:
 
 
